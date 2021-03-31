@@ -1,0 +1,23 @@
+{
+  "name": "because",
+  "version": "1.0.0",
+  "description": "proyecto de aprendizaje",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/booba302/because.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/booba302/because/issues"
+  },
+  "homepage": "https://github.com/booba302/because#readme",
+  "dependencies": {
+    "react-redux": "^7.2.3",
+    "redux": "^4.0.5"
+  }
+}
